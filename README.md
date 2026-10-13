@@ -13,7 +13,7 @@ Backend engineer, 7+ years in production PHP and Laravel across fintech and B2B 
 
 - [LinkedIn](https://linkedin.com/in/rairahulr1) — open to Senior PHP/Laravel roles, remote
 - [GitHub](https://github.com/rairahulr1)
-- [Email](mailto:hello@webdecaffe.com)
+- [Email](mailto:rahul@rairahulr1.com)
 - [Services & availability](https://webdecaffe.com)
 
 Mumbai, India · full-time or contract · remote (UK · Germany · Netherlands · UAE · Singapore)
